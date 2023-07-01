@@ -1,5 +1,7 @@
-
 # 💫 About Me:
+
+### I'm an Engineering student with a great interest in Machine Learning & Data Science. As a curious and inquisitive person, I love to learn new things and expand my knowledge and skills.
+
 -  🌱 I’m currently learning **Unsupervised Learning, Tensorflow**  
 - 💬 Ask me about **Supervised Learning**  
 - 📫 How to reach me **dipesh1.dp@gmail.com**  

@@ -2,10 +2,9 @@
 
 ### I'm an Engineering student with a great interest in Machine Learning & Data Science. As a curious and inquisitive person, I love to learn new things and expand my knowledge and skills.
 
--  🌱 I’m currently learning **Deep Learning, Tensorflow**  
-- 💬 Ask me about **Supervised Learning**  
+-  🌱 I’m currently learning **Deep Learning, PyTorch**    
 - 📫 How to reach me **dipesh1.dp@gmail.com**  
-- ⚡ Fun fact **I am a culer 🔴🔵**
+- ⚡ Fun fact **I am a culer🔴🔵 & loves reading classics**
 
 
 ## 🌐 Socials:

@@ -4,7 +4,7 @@
 
 -  🌱 I’m currently learning **Deep Learning, PyTorch**    
 - 📫 How to reach me **dipesh1.dp@gmail.com**  
-- ⚡ Fun fact **I am a culer🔴🔵 & love reading classics**
+- ⚡ Fun fact **I am a culer🔴🔵 & I love reading books**
 
 
 ## 🌐 Socials:

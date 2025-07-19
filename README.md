@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Dipesh Pandit!
+# 👋 Hey there, I'm Dipesh!
 
 💡 I'm an recent engineering graduate passionate about **Machine Learning**, **Deep Learning**, and everything in between. Driven by curiosity and a hunger to build, I enjoy turning ideas into real-world impact using data and code.
 

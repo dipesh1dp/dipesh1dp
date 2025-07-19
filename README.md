@@ -15,12 +15,11 @@
 
 
 ## 🔣 Langugages:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C/C++](![C/C++](https://img.shields.io/badge/C/C++-Language-informational)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C/C++](![C/C++](https://img.shields.io/badge/C/C++-language-informational)
 ) ![SQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
 ## ⚙️ Frameworks: 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&labelColor=555&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ## 🛠 Libraries
-![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=PyTorch) ![Hugging Face](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=) ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991?logo=openai&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python) ![FAISS](https://img.shields.io/badge/FAISS-Facebook%20AI%20Similarity%20Search-blue?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-Indexing%20Library-blue?logo=vector-graphics&logoColor=white)
-
+![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=PyTorch) ![Hugging Face](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=) ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991?logo=openai&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-005FAB?logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python) ![FAISS](https://img.shields.io/badge/FAISS-Facebook%20AI%20Similarity%20Search-blue?style=flat-square) 

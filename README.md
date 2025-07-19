@@ -7,8 +7,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipesh1dp)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%231DA1F2.svg?logo=Kaggle&logoColor=white)](https://kaggle.com/dipeshpandit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipesh1dp) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-%231DA1F2.svg?logo=Kaggle&logoColor=white)](https://kaggle.com/dipeshpandit) 
 [![Hugging Face](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=)](https://huggingface.co/dipeshpandit)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_dipeshpandit)  
 

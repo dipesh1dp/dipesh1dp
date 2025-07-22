@@ -4,7 +4,7 @@
 
 ### 🚀 Currently Exploring:
 - 🤖 Transformers and LLMs with **Hugging Face**
-- 📊 Building intuitive ML apps with **FastAPI** and **Streamlit** 
+- 📊 **LangChain** and **RAG**
 
 ### 📚 I Love:
 - Reading books — especially **philosophy**, **psychology**, and **classic literature**

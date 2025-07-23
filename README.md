@@ -4,7 +4,7 @@
 
 ### 🚀 Currently Exploring:
 - 🤖 Transformers and LLMs with **Hugging Face**
-- 📊 **LangChain** and **RAG**
+- 📊 **LangChain**, **RAG**, and **Agents**
 
 ### 📚 I Love:
 - Reading books — especially **philosophy**, **psychology**, and **classic literature**

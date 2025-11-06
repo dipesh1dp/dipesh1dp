@@ -1,22 +1,6 @@
 # 👋 Hey there, I'm Dipesh!
 
-💡 I'm an recent engineering graduate passionate about **Machine Learning**, **Deep Learning**, and everything in between. Driven by curiosity and a hunger to build, I enjoy turning ideas into real-world impact using data and code.
-
-### 🚀 Currently Exploring:
-- 🤖 Transformers and LLMs with **Hugging Face**
-- 📊 **LangChain**, **RAG**, and **Agents**
-
-### 📚 I Love:
-- Reading books — especially **philosophy**, **psychology**, and **classic literature**
-- Exploring the future of AI and learning new tools along the way
-- Watching movies and cheering for FC Barcelona — **Visca el Barça!** 🔴🔵
-
----
-
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipesh1dp) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-%231DA1F2.svg?logo=Kaggle&logoColor=white)](https://kaggle.com/dipeshpandit) 
-[![Hugging Face](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=)](https://huggingface.co/dipeshpandit)
+I'm an recent engineering graduate passionate about **Machine Learning**, **Deep Learning**, and everything in between. I enjoy turning ideas into real-world impact using data and code.
 
 ---
 
@@ -24,11 +8,11 @@
 
 **Langugages**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C/C++](https://img.shields.io/badge/C/C++-00599C?logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
 **Frameworks**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&labelColor=555&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&labelColor=555&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=black) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 **Libraries**
 
